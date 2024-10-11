@@ -1,0 +1,12 @@
+ctgan
+joblib
+python-dotenv
+streamlit
+groq
+langchain
+langchain-core
+langchain-groq
+requests
+pandas
+python-Levenshtein
+
